@@ -38,7 +38,7 @@ const testimonials = [
   },
   {
     name: "Daniel T.",
-    role: "Musician",
+    role: "Musician asdf",
     content: "Love willy <3",
     avatar:
       "https://images.unsplash.com/photo-1606513542745-97629752a13b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
